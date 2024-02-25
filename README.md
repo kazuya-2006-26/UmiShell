@@ -3,7 +3,7 @@
 
 what is included in the shell?
 1. a greet command that greets you
-2. a cound command that counts from 1 to the giffen number
+2. a count command that counts from 1 to the given number
 3. a joke command that returns a random joke from the google jokes api
 4. clear to clear the terminal
 5. help to get a list of all the commands and parameters
