@@ -2,7 +2,7 @@
 ## My own Custom windows Command Shell powered by Python
 
 what is included in the shell?
-1. a greet command that greeds you
+1. a greet command that greets you
 2. a cound command that counts from 1 to the giffen number
 3. a joke command that returns a random joke from the google jokes api
 4. clear to clear the terminal
