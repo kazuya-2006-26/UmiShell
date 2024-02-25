@@ -8,11 +8,11 @@ what is included in the shell?
 4. clear to clear the terminal
 5. help to get a list of all the commands and parameters
 6. and last but not least the fully integrated note aplication with wich you can:
-   1. create to create a note
-   2. read to read a note
-   3. delete to delete a note
-   4. help to get a list with all the commands and parameters 
-   5. and list to get a list of all the notes in the arcive
+      1. create to create a note
+      2. read to read a note
+      3. delete to delete a note
+      4. help to get a list with all the commands and parameters 
+      5. list to get a list of all the notes in the arcive
       
       Notice the notes are kept save even if you close the application
 
