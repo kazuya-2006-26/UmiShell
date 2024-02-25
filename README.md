@@ -21,8 +21,8 @@ what is included in the shell?
 
 1. open the cmd
 2. click on the arrow right of the + sign
-3. sellect settings
-4. scrol to the bottom of the menu on the right and sellect "+ Add a new profile"
+3. select settings
+4. scroll to the bottom of the menu on the right and select "+ Add a new profile"
 5. click "+ New empty profile" and fill in the name, starting directory, icon(optional) and tab title(optional) and click on save
 6. now go back to the bottom of the menu and select the Open JSON file find the profiles>list>name:"your given name"
 7. now add the "startingDirectory" key and as value add the path to the folder with everything inside it and save 
