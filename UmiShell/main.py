@@ -1,4 +1,5 @@
 import os
+import importlib.util
 import sys
 import cmd
 import socket
@@ -20,6 +21,16 @@ from assets.commands import note as cmds_node
 #cyan = \033[36m
 #white = \033[37m
 #reset = \033[0m
+
+
+def check_and_install(module_name):
+    if importlib.util.find_spec(module_name) is None:
+        print(f"{module_name} not found. Installing...")
+        os.system(f"pip install {module_name}")
+
+check_and_install('requests')
+
+
 
 
 class MyShell(cmd.Cmd):
